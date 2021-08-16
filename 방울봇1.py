@@ -356,4 +356,4 @@ async def 재생(ctx, *, msg):
 
 
 
-bot.run('ODY1NDE5NjA4NjY3NDU1NDk4.YPDu0Q.r6aG_ZkrHP4_zgPNCB2syleCQH8')
+bot.run('ODY1NDE5NjA4NjY3NDU1NDk4.YPDu0Q.OPbrj2Fpc9ipY0TTIQi5RDoLrD0')
